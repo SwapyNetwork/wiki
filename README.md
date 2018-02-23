@@ -6,6 +6,7 @@
 [Home](https://github.com/swapynetwork/wiki/wiki)  
 [Releases](https://github.com/swapynetwork/wiki/wiki/Releases)  
 [Releases Checksum](https://github.com/swapynetwork/wiki/wiki/Releases-Checksum)  
+[Estimated Milestones](https://github.com/swapynetwork/wiki/wiki/Estimated-Milestones)  
 
 ### Protocols
 [Self-Sovereign Identity](https://github.com/swapynetwork/wiki/wiki/Self-Sovereign-Identity)  
